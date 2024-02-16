@@ -1,0 +1,14 @@
+.center-form {
+  width: 60%;
+}
+
+@media (max-width: 575.98px) {
+  .center-form {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
