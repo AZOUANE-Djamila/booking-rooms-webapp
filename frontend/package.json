@@ -16,7 +16,7 @@
     "@mui/x-tree-view": "^6.17.0",
     "@reduxjs/toolkit": "^2.1.0",
     "axios": "^1.6.7",
-    "bcrypt": "^5.1.1",
+    "bcrypt": "^6.0.0",
     "date-fns": "^3.3.1",
     "dayjs": "^1.11.10",
     "react": "^16.8.6",
